@@ -97,7 +97,7 @@ namespace TriangleApp
         }
 
         /** 
-        * Класс для вираховування гіпотенузи 
+        * Функція для вираховування гіпотенузи 
         */
         static public double Hypotenuse(double a, double b, bool t)
         {
@@ -115,7 +115,7 @@ namespace TriangleApp
         }
 
         /** 
-        * Класс для вираховування периметра
+        * Функція для вираховування периметра
         */
         static public double Perimeter(double a, double b)
         {
