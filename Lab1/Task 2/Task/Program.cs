@@ -82,7 +82,7 @@ namespace TriangleApp
 
             while (true)
             {
-                if (double.TryParse(Console.ReadLine(), out num)) {
+                if (double.TryParse(Console.ReadLine(), out num) && num > 0) {
                     // Якщо було веденно вірне число буде закінчення циклу
                     return num;
                 }
