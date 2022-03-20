@@ -13,3 +13,6 @@ C:\Users\Alxich\Desktop\Labs_Csh_lang\Lab4\Task 1\Task\obj\Debug\net6.0\Task.dll
 C:\Users\Alxich\Desktop\Labs_Csh_lang\Lab4\Task 1\Task\obj\Debug\net6.0\ref\Task.dll
 C:\Users\Alxich\Desktop\Labs_Csh_lang\Lab4\Task 1\Task\obj\Debug\net6.0\Task.pdb
 C:\Users\Alxich\Desktop\Labs_Csh_lang\Lab4\Task 1\Task\obj\Debug\net6.0\Task.genruntimeconfig.cache
+C:\Users\Alxich\Desktop\Labs_Csh_lang\Lab4\Task 1\Task\bin\Debug\net6.0\Baseline.dll
+C:\Users\Alxich\Desktop\Labs_Csh_lang\Lab4\Task 1\Task\bin\Debug\net6.0\DryIoc.dll
+C:\Users\Alxich\Desktop\Labs_Csh_lang\Lab4\Task 1\Task\obj\Debug\net6.0\Task.csproj.CopyComplete

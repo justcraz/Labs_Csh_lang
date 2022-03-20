@@ -1,16 +1,16 @@
 {
   "Version": 1,
   "ProjectMap": {
-    "91151575-255d-47c1-8622-8ade4f09d7cc": {
-      "ProjectGuid": "91151575-255d-47c1-8622-8ade4f09d7cc",
+    "73f4a520-0523-4f4f-bd17-b8c95b1d12ce": {
+      "ProjectGuid": "73f4a520-0523-4f4f-bd17-b8c95b1d12ce",
       "DisplayName": "Task",
       "ColorIndex": 0
     },
-    "39f9168b-42a2-47cc-a9cf-17743c59a9a7": {
-      "ProjectGuid": "39f9168b-42a2-47cc-a9cf-17743c59a9a7",
-      "DisplayName": "Test",
-      "ColorIndex": 1
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 1
 }
