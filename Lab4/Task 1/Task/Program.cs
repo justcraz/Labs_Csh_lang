@@ -255,8 +255,7 @@ namespace computerStock
 
             Console.WriteLine("\n 1. Отримати інформацію о комп'ютерах");
             Console.WriteLine(" 2. Редагувати інформацію о комп'ютерах");
-            Console.WriteLine(" 3. Добавити комп'ютер у список");
-            Console.WriteLine(" 4. Повернутися");
+            Console.WriteLine(" 3. Повернутися");
 
         }
 
@@ -321,9 +320,6 @@ namespace computerStock
                         SetInfoAbout();
                         return true;
                     case "3":
-                        Console.WriteLine("\n Немає такої функції бо лінь спробуй в меню вести знову ! \n");
-                        return true;
-                    case "4":
                         Menu();
                         return false;
                     default:
@@ -434,11 +430,11 @@ namespace computerStock
 
                 // Показуємо найбільший за пам'ятю пк
                 Console.WriteLine();
-                Console.Write("\n Індекс\t Назва комп'ютера");
+                Console.Write("\n Назва комп'ютера\n");
                 int indexCount = 1;
                 for (int i = 0; i <= 4; i++)
                 {
-                    Console.Write(" \n  - №" + indexCount + "\t" + koll2[i].returnMeName() + " ");
+                    Console.Write(" \n -" + koll2[i].returnMeName() + " ");
                     indexCount++;
                 }
                 Console.WriteLine();
