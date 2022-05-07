@@ -10,8 +10,8 @@ namespace Task1Test
         {
             int a = 5;
             int b = 6;
-            int result = ConsoleApp1.Program.Example(a, b);
-            Assert.AreEqual(11, result);
+            
+            Assert.AreEqual(11, ConsoleApp1.Program.Example(a, b));
         }
     }
 }

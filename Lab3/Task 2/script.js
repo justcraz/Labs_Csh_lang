@@ -6,7 +6,8 @@ var clockImage;
 function ClockClear() { // clear canvas function
     ctx.clearRect(0, 0, ctx.canvas.width, ctx.canvas.height);
 }
-function Clock() { // main drawScene function
+function Clock() {
+    // main drawScene function
     ClockClear(); // clear canvas
     // get current time
     var date = new Date();

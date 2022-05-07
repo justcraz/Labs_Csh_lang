@@ -21,9 +21,6 @@ namespace Test
         [TestMethod]
         public void TestMethod2()
         {
-
-            double a = 3;
-            double b = 4;
             double resultPerimeter = TriangleApp.Program.Perimeter(a, b);
             Assert.AreEqual(12, resultPerimeter);
         }
